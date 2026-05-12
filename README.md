@@ -1,24 +1,24 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a562a3b5-cdc7-4013-9aa0-0b586ecd4003" />📄 [포트폴리오] 이주원 | AI 협업 역량을 갖추는 개발자가 되겠습니다
+📄 [포트폴리오] 이주원 | AI 협업 역량을 갖추는 개발자가 되겠습니다
 
 웹사이트 : https://vivide-me.vercel.app
 <img width="476" height="842" alt="image" src="https://github.com/user-attachments/assets/231aeceb-bac6-4f3d-8799-982d1e221404" />
-
 
 1) 기술 스택: "꼭 필요한 것만 골라서 썼습니다"
 - 화면 만들기: HTML, Tailwind CSS (디자인 파일을 따로 만들지 않고 코드 안에서 바로 꾸미는 도구를 활용했습니다.)
 - 데이터 관리: JavaScript, Google Apps Script (초급 개발자이다보니 비용이 많이 들어 서버 대신 익숙한 구글 스프레드시트를 데이터베이스로 활용했습니다.)
 - 도구: Gemini AI (모르는 부분이나 에러가 날 때 AI와 구글 검색을 활용하여 해결했습니다.)
+<img width="972" height="351" alt="image" src="https://github.com/user-attachments/assets/3c72b37f-af59-4154-a13d-f505b4043d20" />
 
 2) 사용자 경험: "신청하는 사람이 편하게 만들었습니다"
 - 모바일 우선: 인스타그램으로 들어오는 고객이 많으니, 스마트폰에서 화면이 깨지지 않고 예쁘게 보이도록 신경 썼습니다.
+<img width="608" height="712" alt="image" src="https://github.com/user-attachments/assets/1f78026f-f8a1-4816-a70f-c5dd3e32183d" />
 - 실수 방지: 예약할 때 이름이나 번호를 안 쓰고 버튼을 누르면 "빈칸을 채워주세요"라고 알려줘서 고객이 실수하지 않게 만들었습니다.
+<img width="853" height="206" alt="image" src="https://github.com/user-attachments/assets/b203f8ba-f2e3-401b-ae20-b8b0f99f7b8c" />
 
 3) 프로젝트 내용: "예약 관리를 자동화했습니다"
 - 불편했던점 & 해결 과정: 이전에는 DM이나 카톡으로 일일이 받아서 구글 시트로 따로 정리해야하는 상황이였습니다. 그러다 보니 DM에서 연락이오면 다시 작성하고 카톡에서 연락이오면 작성하고 하다보니 데이터 관리가 불편해지고 일을 두번하게 되었습니다. 그러다보니 어떻게 하면 일을 두번 하지 않고 데이터 관리를 잘할 수 있을까 고민하다보니, 웹사이트에서 신청하기 버튼만 누르면 구글 엑셀 시트에 자동으로 기록하면 되겠구나 해서 만들게 되었습니다.
 - 아무래도 처음엔 웹사이트와 구글 시트를 연동하는 부분이 어렵다보니 제미나이(AI)를 통해 앱 스크립트를 활용해 데이터를 주고받는 방식 방법을 연결해서 성공했습니다.
-
-
-
+<img width="1061" height="843" alt="image" src="https://github.com/user-attachments/assets/0d95fd60-953f-486c-857d-c747a028da4a" />
 
 4) 협업과 태도: "소통해서 찾아서 끝까지 해냅니다"
 1인 개발: 기획부터 디자인, 개발, 검색 등록(네이버 및 구글 등)까지 혼자 힘으로 다 해보면서 서비스가 돌아가는 전체 과정을 배웠습니다.
