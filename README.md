@@ -1,7 +1,7 @@
 <h1 align="center">👋 안녕하세요, 프론트엔드 개발자 이주원입니다.</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=LEE%20JUWON&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=이%20주원&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 </p>
 
 <p align="center">
