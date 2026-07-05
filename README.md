@@ -124,9 +124,9 @@ AI 도구를 적극적으로 활용하여 개발 생산성을 높이고, 기획 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leeyeonhui050-creator&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyeonhui050-creator&layout=compact&theme=tokyonight"/>
 
 </p>
 
