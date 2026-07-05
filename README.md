@@ -116,7 +116,7 @@ AI 도구를 적극적으로 활용하여 개발 생산성을 높이고, 기획 
 
 ### 📁 Repository
 
-👉 https://github.com/본인아이디/레포이름
+👉 https://github.com/leeyeonhui050-creator/vivide-me
 
 ---
 
@@ -138,9 +138,6 @@ AI 도구를 적극적으로 활용하여 개발 생산성을 높이고, 기획 
 
 leeyeonhui050@naver.com
 
-🌐 GitHub
-
-https://github.com/본인아이디
 
 🚀 Portfolio
 
