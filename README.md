@@ -1,25 +1,52 @@
-📄 [포트폴리오] 이주원 | AI 협업 역량을 갖추는 개발자가 되겠습니다
+# 👋 안녕하세요, 프론트엔드 개발자 [본인이름]입니다!
 
-웹사이트 : https://vivide-me.vercel.app
-<img width="476" height="842" alt="image" src="https://github.com/user-attachments/assets/231aeceb-bac6-4f3d-8799-982d1e221404" />
+<p align="center">
+  <!-- 뱃지나 멋진 이미지를 넣는 공간입니다. (원하는 문구로 변경 가능) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50" />
+</p>
 
-1) 기술 스택: "꼭 필요한 것만 골라서 썼습니다"
-- 화면 만들기: HTML, Tailwind CSS (디자인 파일을 따로 만들지 않고 코드 안에서 바로 꾸미는 도구를 활용했습니다.)
-- 데이터 관리: JavaScript, Google Apps Script (초급 개발자이다보니 비용이 많이 들어 서버 대신 익숙한 구글 스프레드시트를 데이터베이스로 활용했습니다.)
-- 도구: Gemini AI (모르는 부분이나 에러가 날 때 AI와 구글 검색을 활용하여 해결했습니다.)
-<img width="972" height="351" alt="image" src="https://github.com/user-attachments/assets/3c72b37f-af59-4154-a13d-f505b4043d20" />
+## 🚀 About Me
+사용자 경험을 고민하고, 깔끔한 코드로 화면을 구현하는 것을 좋아하는 프론트엔드 개발자입니다. 최근 퍼스널 컬러 관련 웹 서비스인 **'비비드 미(Vivide me)'**를 직접 기획하고 배포했습니다.
 
-2) 사용자 경험: "신청하는 사람이 편하게 만들었습니다"
-- 모바일 우선: 인스타그램으로 들어오는 고객이 많으니, 스마트폰에서 화면이 깨지지 않고 예쁘게 보이도록 신경 썼습니다.
-<img width="608" height="712" alt="image" src="https://github.com/user-attachments/assets/1f78026f-f8a1-4816-a70f-c5dd3e32183d" />
-- 실수 방지: 예약할 때 이름이나 번호를 안 쓰고 버튼을 누르면 "빈칸을 채워주세요"라고 알려줘서 고객이 실수하지 않게 만들었습니다.
-<img width="853" height="206" alt="image" src="https://github.com/user-attachments/assets/b203f8ba-f2e3-401b-ae20-b8b0f99f7b8c" />
+- 💻 **관심 분야:** Web Development, UI/UX, React/Next.js Ecosystem
+- 📧 **Contact:** [본인 이메일 주소]
+- 🔗 **Deployed Service:** [비비드 미 보러가기](https://vivide-me.vercel.app)
 
-3) 프로젝트 내용: "예약 관리를 자동화했습니다"
-- 불편했던점 & 해결 과정: 이전에는 DM이나 카톡으로 일일이 받아서 구글 시트로 따로 정리해야하는 상황이였습니다. 그러다 보니 DM에서 연락이오면 다시 작성하고 카톡에서 연락이오면 작성하고 하다보니 데이터 관리가 불편해지고 일을 두번하게 되었습니다. 그러다보니 어떻게 하면 일을 두번 하지 않고 데이터 관리를 잘할 수 있을까 고민하다보니, 웹사이트에서 신청하기 버튼만 누르면 구글 엑셀 시트에 자동으로 기록하면 되겠구나 해서 만들게 되었습니다.
-- 아무래도 처음엔 웹사이트와 구글 시트를 연동하는 부분이 어렵다보니 제미나이(AI)를 통해 앱 스크립트를 활용해 데이터를 주고받는 방식 방법을 연결해서 성공했습니다.
-<img width="1061" height="843" alt="image" src="https://github.com/user-attachments/assets/0d95fd60-953f-486c-857d-c747a028da4a" />
+---
 
-4) 협업과 태도: "소통해서 찾아서 끝까지 해냅니다"
-1인 개발: 기획부터 디자인, 개발, 검색 등록(네이버 및 구글 등)까지 혼자 힘으로 다 해보면서 서비스가 돌아가는 전체 과정을 배웠습니다.
-AI 활용 능력: 모르는 기술이 나와도 당황하지 않고 AI를 비서처럼 활용하였고, AI를 활용한 만큼 코드도 많이 배웠습니다. 뽑아주신 만큼 열심히 빠르게 답을 찾아내고 적용해서 일하겠습니다.
+## 🛠️ Tech Stacks
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
+
+### Deployment & Tools
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 🧑‍💻 Projects
+
+### 🎨 비비드 미 (Vivide-me)
+> **개인 프로젝트 (기획, 개발, 배포 100%)**
+- **설명:** 사용자의 퍼스널 컬러를 진단하고 정보를 제공하는 반응형 웹 서비스
+- **Stack:** React / Next.js, Vercel
+- **💡 Key Point:** 네이버 및 구글 검색 엔진 최적화(SEO) 및 사이트맵 등록 완료
+- **Link:** [GitHub Repository](내비비드미깃허브주소) / [Live Demo](https://vivide-me.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.com/api?username=[본인깃허브아이디]&show_icons=true&theme=radial" alt="GitHub Stats" />
+</p>
