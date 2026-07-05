@@ -1,52 +1,157 @@
-# 👋 안녕하세요, 개발자 이주원입니다!
+<h1 align="center">👋 안녕하세요, 프론트엔드 개발자 이주원입니다.</h1>
 
 <p align="center">
-  <!-- 뱃지나 멋진 이미지를 넣는 공간입니다. (원하는 문구로 변경 가능) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=LEE%20JUWON&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 </p>
-
-## 🚀 About Me
-사용자 경험을 고민하고, 깔끔한 코드로 화면을 구현하는 것을 좋아하는 프론트엔드 개발자입니다. 최근 퍼스널 컬러 관련 웹 서비스인 **'비비드 미(Vivide me)'**를 직접 기획하고 배포했습니다.
-
-- 💻 **관심 분야:** Web Development, UI/UX, React/Next.js Ecosystem
-- 📧 **Contact:** [본인 이메일 주소]
-- 🔗 **Deployed Service:** [비비드 미 보러가기](https://vivide-me.vercel.app)
-
----
-
-## 🛠️ Tech Stacks
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-</p>
-
-### Deployment & Tools
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 🧑‍💻 Projects
-
-### 🎨 비비드 미 (Vivide-me)
-> **개인 프로젝트 (기획, 개발, 배포 100%)**
-- **설명:** 사용자의 퍼스널 컬러를 진단하고 정보를 제공하는 반응형 웹 서비스
-- **Stack:** React / Next.js, Vercel
-- **💡 Key Point:** 네이버 및 구글 검색 엔진 최적화(SEO) 및 사이트맵 등록 완료
-- **Link:** [GitHub Repository](내비비드미깃허브주소) / [Live Demo](https://vivide-me.vercel.app)
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=[본인깃허브아이디]&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <a href="https://github.com/leeyeonhui050-creator">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:leeyeonhui050@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+  <a href="https://vivide-me.vercel.app/">
+    <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🙋 About Me
+
+### 이주원 (Lee Ju Won)
+
+🏠 서울특별시 서초구
+
+🎂 1998.05.08
+
+📧 leeyeonhui050@naver.com
+
+💡 사용자의 경험을 우선으로 생각하며 서비스를 구현하는 프론트엔드 개발자를 목표로 하고 있습니다.
+
+실제 서비스를 직접 기획하고 개발하여 Vercel에 배포하고,
+Google Search Console과 네이버 서치어드바이저를 활용한 SEO 적용 경험을 가지고 있습니다.
+
+AI를 적극적으로 활용하여 생산성을 높이고,
+기획 의도에 맞는 사용자 친화적인 UI를 구현하는 것을 좋아합니다.
+
+---
+
+# 🛠 Tech Stack
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Project
+
+## 🎨 VIVID ME
+
+> 퍼스널 컬러 & 이미지 브랜딩 서비스
+
+<img src="https://img.shields.io/badge/Personal Project-6C63FF?style=flat-square"/>
+
+### 📌 프로젝트 소개
+
+2030 세대를 위한 퍼스널 컬러 및 이미지 브랜딩 서비스를 제공하는
+반응형 랜딩페이지입니다.
+
+브랜드 소개부터 예약, 체험 신청, SEO 적용까지
+실제 서비스 운영을 고려하여 제작하였습니다.
+
+### 🛠 Tech
+
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- Google Apps Script
+- Vercel
+
+---
+
+### ✨ 주요 기능
+
+✔ 반응형 웹
+
+✔ 예약 모달
+
+✔ 체험 신청 폼
+
+✔ Google Apps Script 연동
+
+✔ 부산점 안내 팝업
+
+✔ LocalStorage / Cookie 활용
+
+✔ SEO 적용
+
+✔ robots.txt
+
+✔ sitemap.xml
+
+✔ Google Search Console 등록
+
+✔ Naver Search Advisor 등록
+
+---
+
+### 🌐 Live Demo
+
+👉 https://vivide-me.vercel.app/
+
+---
+
+### 📁 Repository
+
+👉 https://github.com/본인아이디/레포이름
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+leeyeonhui050@naver.com
+
+🌐 GitHub
+
+https://github.com/본인아이디
+
+🚀 Portfolio
+
+https://vivide-me.vercel.app/
+
+---
+
+<p align="center">
+
+### 감사합니다 😊
+
+꾸준히 성장하는 개발자가 되겠습니다.
+
 </p>
