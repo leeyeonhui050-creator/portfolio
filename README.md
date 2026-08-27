@@ -38,73 +38,86 @@
 
 # 🛠 Tech Stack
 
-### Front-End
+## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
-### Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Project
-
-## 🎨 VIVID ME
-
-> 퍼스널 컬러 & 이미지 브랜딩 서비스
-
-<img src="https://img.shields.io/badge/Personal Project-6C63FF?style=flat-square"/>
-
-### 📌 프로젝트 소개
-
-2030 세대를 위한 퍼스널 컬러 및 이미지 브랜딩 서비스를 제공하는 반응형 랜딩페이지입니다.
-
-브랜드 소개, 예약 시스템, 체험 신청, SEO 최적화까지 실제 서비스 운영을 가정하여 설계하였습니다.
-또한 초기 프로젝트 특성상 별도의 서버 구축 없이 Google Apps Script와 Google Sheets를 활용하여 데이터 저장 및 폼 처리를 구현하였습니다.
-
-
-### 🛠 Tech
-
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
 - Tailwind CSS
+
+### Data / API
 - Google Apps Script
+- Google Sheets
+
+### Deployment
 - Vercel
+- GitHub
+
+### SEO
+- Google Search Console
+- Naver Search Advisor
+
 
 ---
 
-### ✨ 주요 기능
+## 🎨 VIVID ME
 
-✔ 반응형 웹
+### 퍼스널 컬러 & 이미지 브랜딩 서비스
 
-✔ 예약 모달
+**1인 개발 · 기획 / UI 구현 / 기능 개발 / 배포**
 
-✔ 체험 신청 폼
+2030 세대를 대상으로 퍼스널 컬러와 이미지 브랜딩 컨설팅을 제공하는 실제 서비스형 웹사이트입니다.
 
-✔ Google Apps Script 연동
+단순한 랜딩페이지 제작에 그치지 않고 예약 및 체험 신청부터 데이터 관리, 검색엔진 최적화, 배포까지 실제 서비스 운영을 고려하여 개발했습니다.
 
-✔ 부산점 안내 팝업
+### 주요 구현
 
-✔ LocalStorage / Cookie 활용
+- 반응형 웹 UI 구현
+- 예약 모달 및 상담 신청 기능 구현
+- 체험 신청 폼 구현
+- Google Apps Script를 통한 데이터 처리
+- Google Sheets를 활용한 신청 데이터 관리
+- LocalStorage / Cookie를 활용한 사용자 상태 관리
+- robots.txt / sitemap.xml 구성
+- Google Search Console 등록
+- Naver Search Advisor 등록
+- Vercel 배포
 
-✔ SEO 적용
+### 기술적 의사결정
 
-✔ robots.txt
+초기 서비스 단계에서 별도의 서버 및 데이터베이스를 운영하는 비용과 복잡도를 줄이기 위해 Google Sheets를 데이터 저장소로 활용했습니다.
+Google Apps Script를 중간 API 계층으로 사용하여 사용자의 신청 데이터를 Google Sheets에 전달하고 관리할 수 있도록 구현했습니다.
 
-✔ sitemap.xml
+### 구조
 
-✔ Google Search Console 등록
-
-✔ Naver Search Advisor 등록
+사용자
+↓
+VIVID ME
+↓
+Google Apps Script
+↓
+Google Sheets
 
 ---
+
+### 결과
+
+- 실제 서비스 배포 및 운영
+- Google / Naver 검색엔진 등록
+- 예약 및 체험 신청 데이터 자동 수집
+- 모바일 / PC 반응형 환경 지원
+
+---
+
+### Development Approach
+
+AI 개발 도구를 활용하여 구현 과정에서
+코드 작성 및 디버깅 효율을 높였습니다.
+
+다만 생성된 코드를 그대로 사용하는 것이 아니라
+요구사항에 맞게 검토하고 수정하며 적용했습니다.
+
 
 ### 🌐 Live Demo
 
@@ -118,17 +131,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leeyeonhui050-creator&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyeonhui050-creator&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Contact
 
