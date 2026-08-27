@@ -112,7 +112,28 @@ Google Sheets
 👉 https://github.com/leeyeonhui050-creator/vivide-me
 
 ---
+# 🎓 Education
 
+### [학교명]
+
+- 전공: [전공]
+- 기간: [입학연도] ~ [졸업연도]
+- 학위: [학위]
+
+---
+
+# 📚 Training
+
+### [교육기관 / 교육과정]
+
+- 기간: [기간]
+- 주요 학습 내용: [내용]
+
+---
+
+# 📜 Certificate
+
+- [자격증명] — [취득일]
 
 # 📫 Contact
 
