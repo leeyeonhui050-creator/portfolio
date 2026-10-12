@@ -47,7 +47,6 @@
 - 웹 배포 및 실제 동작 확인
 
 🔗 [Live Demo](https://mov-phi.vercel.app/)  
-🔗 [Source Code](https://github.com/leeyeonhui050-creator/mov)
 
 
 ### 02. AI MBTI & Fortune
@@ -71,8 +70,6 @@
 - Vercel을 통한 웹 배포
 
 🔗 [Live Demo](https://project2-black-beta.vercel.app/)  
-🔗 [Source Code](https://github.com/leeyeonhui050-creator/project2)
-
 ---
 
 ## 🤖 How I Use AI
