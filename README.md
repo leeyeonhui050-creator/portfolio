@@ -1,6 +1,6 @@
 # 안녕하십니까 신입 개발로 지원하고 싶은 이주원입니다 👋
 
-### Junior Developer · AI 활용 개발 · API 
+### 신입개발자 · AI 활용 개발 · API 
 
 아이디어를 실제로 동작하는 서비스로 구현하는 데 관심이 있는 신입 개발자입니다. HTML, CSS, JavaScript를 활용한 웹 개발과 외부 API 연동, 데이터 처리 및 서비스 통합 경험을 쌓고 있습니다.
 현재 사용하고 있는 AI는 ChatGPT, Gemini, GitHub Copilot을 개발 보조 도구로 활용하여 사용자 편의 성 중심으로 방향성을 기획하고, 코드를 수정하며, 오류를 분석하고 해결하고 있습니다.
@@ -8,12 +8,12 @@
 
 ---
 
-## 🛠 Skills
+## 🛠 기술
 
-**Development**
+**개발 가능한 도구**
 - HTML · CSS · JavaScript
 
-**Data & Service Integration**
+**데이터 & 서비스 구현**
 - Google Apps Script
 - Google Sheets 연동 및 데이터 저장
 - 외부 API 연동 및 데이터 송수신
@@ -22,7 +22,7 @@
 **AI Tools**
 - ChatGPT · Gemini · GitHub Copilot
 
-**Tools**
+**사용가능한 Tools**
 - VS Code · Git · GitHub
 - Adobe Photoshop — 기본 이미지 편집 및 웹용 이미지 수정
 - oracle - 데이터 관리
@@ -77,20 +77,19 @@
 
 ## 🤖 How I Use AI
 
-- 기능 구조 및 구현 방향 검토
-- 코드 초안 작성과 수정 보조
+- 개발 기획 및 구현 방향
+- 코드 초안 작성 및 수정 보조
 - 오류 원인 분석 및 해결 방법 비교
-- 프롬프트와 AI 응답 결과 개선
-- 테스트 및 사용자 흐름 검토
+- 프롬프트 사용 및 AI 응답 결과 개선
+- 테스트 
 
-AI를 개발 생산성을 높이는 도구로 활용하되, 수정 결과를 직접 실행하고 검증하는 것을 중요하게 생각합니다.
+AI를 개발 생산성을 높이는 도구로 활용하되, 수정 결과를 직접 실행하고 검증하는 것을 중요하게 생각하며, 맡겨주신 일에 열심을 다해 개발하겠습니다
 
 ---
 
 ## 🎯 Interested In
 
-Software Development · Web Development · AI Application · API Integration · Automation
-
+소프트웨어 개발자 · 웹 개발자 · AI 어플리케이션 · API 서비스 구현 및 자동화
 ---
 
 ## 📫 Contact
