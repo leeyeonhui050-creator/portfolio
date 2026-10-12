@@ -52,7 +52,8 @@
 
 ### 02. AI MBTI & Fortune
 
-사용자 선택에 따라 타로 카드와 AI 해석 결과를 제공하는 웹 애플리케이션입니다.
+사용자가 선택한 MBTI와 운세 유형을 바탕으로 타로 및 AI 해석 결과를 제공하는 웹 서비스입니다
+
 1. 사용자가 선택한 mbti 따라서 ai 말투가 달라지는 운세
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8b50b06-e638-4c0b-9a9d-b6e96c6dfda6" />
 
